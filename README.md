@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-# Python-Mini-Projects.
+# Python-Mini-Projects
 [![All Contributors](https://img.shields.io/github/contributors/Python-World/python-mini-projects)](#contributors-)
 ![Issues](https://img.shields.io/github/issues/Python-World/python-mini-projects)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Python-World/python-mini-projects?)
