@@ -14,7 +14,7 @@
 ![Stars](https://img.shields.io/github/stars/Python-World/python-mini-projects)
 ![License](https://img.shields.io/github/license/Python-World/python-mini-projects)
 
-A collection of simple python mini projects to enhance your Python skills.
+A collection of simple python mini projects to enhance your Python skills
 
 If you want to learn about python, visit [here.](https://github.com/Python-World/Py-Resources)
 
